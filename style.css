@@ -1,0 +1,78 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,650');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,650');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+body {
+  background-color: #37f050;
+  font-family: "Open Sans", sans-serif;
+  padding: 5px 25px;
+  font-size: 18px;
+  margin: 0;
+  color: #444444;
+  text-align:center
+}
+h2 {
+  font-family: "Press Start 2P", serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 8.61111111111111111111111111111px
+}
+
+h1 {
+  font-family: "Merriweather", serif;
+  font-size: 32px;
+}
+
+h10 {
+  text-align: left;
+  font-family: "Press Start 2P", serif;
+  font-size: 5px;
+}
+green {
+  color: #0011ff;
+  
+}
+blue {
+  text-align: top;
+  
+}
+img {
+  width: 400px;
+}
+
+#title{
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	border: 4px solid blue;
+	margin-bottom: 5px;
+  
+}
+
+
+h3 {
+  color:#DC3545
+}
+h0{
+  size:32px;
+  color:
+}
+
+rainbow-text {
+  font-size: 3rem;
+  font-weight: bold;
+  background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  animation: rainbow 3s infinite linear;
+}
+
+@keyframes rainbow {
+  0% { background-position: 0% 0%;}
+  100% { background-position: 100% 100%;}
+}
+a {
+  border: 2px;
+  
+}
