@@ -80,3 +80,10 @@ a {
     padding: 10px; /* Adds space between text and the box edges */
     display: inline-block; /* Or block, depending on your needs */
 }
+{
+ #link_boxes {
+	border: 5px; 
+ }
+
+	
+}
