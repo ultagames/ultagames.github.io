@@ -82,7 +82,9 @@ a {
 }
 {
  #link_boxes {
-	border: 5px black;
+	border: 12px black;
+	 padding: 20px;
+    display: inline-block;
 	 
  }
 
